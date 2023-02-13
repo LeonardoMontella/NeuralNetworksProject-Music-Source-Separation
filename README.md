@@ -4,7 +4,7 @@ Instructions to run the project
 
 I replicated the Hybrid Transformer Demucs for Music Separation project on a GoogleColab file.
 In order to run all the function I have implemented and listen to the output files you need to execute the notebook.
-
+### (I suggest to download the zip version of the Github repository because the notebook is to large to be displayed)
 
 # Separate any song you have on GoogleDrive
 
