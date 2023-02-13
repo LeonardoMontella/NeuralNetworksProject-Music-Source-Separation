@@ -46,5 +46,5 @@ The github repo is here: https://github.com/facebookresearch/dora .
 For evaluation you can follow the Colab File instructions but also in this case it is only locally.
 
 
-#Details and plots are reported in the Colab notebook
+# Details and plots are reported in the Colab notebook
 
